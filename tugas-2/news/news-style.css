@@ -1,0 +1,23 @@
+.news-container {
+  padding-inline-start: 2rem;
+  margin-block-start: 120px;
+  min-width: 50ch;
+  width: 100%;
+  max-width: 60ch;
+}
+
+.news-thumb-big {
+  display: inline-block;
+  max-width: 650px;
+  width: 100%;
+  min-width: 300px;
+  height: auto;
+}
+
+p {
+  line-height: 1.75;
+}
+
+.bold-text {
+  font-weight: 600;
+}
